@@ -1,0 +1,6 @@
+redis
+python-multipart
+aiofiles
+jinja2
+numpy
+Pillow

@@ -1,0 +1,6 @@
+redis
+Pillow
+tensorflow-gpu==2.4.0
+opencv-python
+numpy
+scipy
